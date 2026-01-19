@@ -27,3 +27,15 @@
  b. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
 - **WEB DEVELOPER INTERN**
 - **PROJECTS**
+
+
+> **Soft Skills**
+>> **Critical Thinking, Adaptability, Communication**
+
+**CERTIFICATES**
+- **Certified in AI & ML** – SMEC  
+- **NPTEL: Google Cloud Computing and Security**
+
+**WEB DEVELOPER INTERN**
+
+**PROJECTS**
