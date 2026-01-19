@@ -3,7 +3,7 @@
 
 ## B.Tech2022-26
 <br>
-**WEB-DEVELOPER INTERN**
+**WEB-DEVELOPER INTERN
 <br>
 [linkedin](https://www.linkedin.com/in/sandra-sabu-/)
 <br>
