@@ -17,16 +17,16 @@
 `skills`
 >technical
 >>HTML, CSS, JS, PYTHON , MYSQL
-<br>
+
 >soft skill
 >> critical thinking , adaptability, communication
 
 <br>
- - ** Certificates ** <br>
- - 1.Certified in AI & MLat SMEC <br>
- - 2. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
-- **WEB DEVELOPER INTERN**
-- **PROJECTS**
+  ** Certificates ** <br>
+  1.Certified in AI & MLat SMEC <br>
+  2. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
+**WEB DEVELOPER INTERN**
+**PROJECTS**
 
 
 > **Soft Skills**
