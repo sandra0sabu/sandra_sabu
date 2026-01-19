@@ -22,9 +22,9 @@
 >> critical thinking , adaptability, communication
 
 <br>
- ** Certificates ** <br>
- a.Certified in AI & MLat SMEC <br>
- b. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
+ - ** Certificates ** <br>
+ - a.Certified in AI & MLat SMEC <br>
+ - b. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
 - **WEB DEVELOPER INTERN**
 - **PROJECTS**
 
