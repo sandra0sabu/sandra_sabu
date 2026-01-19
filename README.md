@@ -8,9 +8,11 @@
 [linkedin](https://www.linkedin.com/in/sandra-sabu-/)
 <br>
 **projects**
-1.citrus Disease Detection System
-2.Flask Todo Web app
-3.  Personal Portfolio
+<br>
+
+1.citrus Disease Detection System <br>
+2.Flask Todo Web app <br>
+3.  Personal Portfolio <br>
 
 `skills`
 >technical
@@ -20,6 +22,6 @@
 >> critical thinking , adaptability, communication
 
 <br>
- **Certificates**
- a.Certified in AI & MLat SMEC
+ ** Certificates ** <br>
+ a.Certified in AI & MLat SMEC <br>
  b. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
