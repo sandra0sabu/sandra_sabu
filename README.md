@@ -23,8 +23,8 @@
 
 <br>
  - ** Certificates ** <br>
- - a.Certified in AI & MLat SMEC <br>
- - b. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
+ - 1.Certified in AI & MLat SMEC <br>
+ - 2. NPTEL in GOOGLE CLOUD COMPUTING AND SECURITY 
 - **WEB DEVELOPER INTERN**
 - **PROJECTS**
 
